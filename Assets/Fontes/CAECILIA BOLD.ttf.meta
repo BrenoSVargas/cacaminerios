@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ec9d714494596f045a8df06ab4a9a15d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PMN Caecilia
+  fontNames:
+  - PMN Caecilia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b23a92131ab4924e9494fb8eee021a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

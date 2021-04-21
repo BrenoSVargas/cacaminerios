@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dd34f6b5a4e54ae4a9ba18a86293fe47
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caecilia LT Std
+  fontNames:
+  - Caecilia LT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84ecbbebfdc0f1d4786f4e8c1e6e703e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
